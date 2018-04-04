@@ -1,0 +1,30 @@
+[
+    {
+        "name": "redfox80/php-autoloader-simple",
+        "version": "v1.0.6",
+        "version_normalized": "1.0.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/redfox80/PHP-Autoloader-simple.git",
+            "reference": "b62c557e9f0164082c3322e655eff329c48f4dc8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/redfox80/PHP-Autoloader-simple/zipball/b62c557e9f0164082c3322e655eff329c48f4dc8",
+            "reference": "b62c557e9f0164082c3322e655eff329c48f4dc8",
+            "shasum": ""
+        },
+        "time": "2018-04-03T23:28:27+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "redfox80\\Autoloader\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ]
+    }
+]

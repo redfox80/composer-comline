@@ -1,0 +1,9 @@
+{
+    "name": "redfox80/php-autoloader-simple",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "redfox80\\Autoloader\\": "src/"
+        }
+    }
+}

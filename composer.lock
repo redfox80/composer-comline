@@ -1,0 +1,44 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d83f46826106e569c0d46f58df8420a6",
+    "packages": [
+        {
+            "name": "redfox80/php-autoloader-simple",
+            "version": "v1.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/redfox80/PHP-Autoloader-simple.git",
+                "reference": "b62c557e9f0164082c3322e655eff329c48f4dc8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/redfox80/PHP-Autoloader-simple/zipball/b62c557e9f0164082c3322e655eff329c48f4dc8",
+                "reference": "b62c557e9f0164082c3322e655eff329c48f4dc8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "redfox80\\Autoloader\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "time": "2018-04-03T23:28:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

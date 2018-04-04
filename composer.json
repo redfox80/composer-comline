@@ -1,0 +1,20 @@
+{
+    "name": "comline",
+    "authors": [
+        {
+            "name": "Joakim Førde",
+            "email": "joakim@fungy.no",
+            "homepage": "https://fungy.no",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "redfox80\\comline\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "require": {
+        "redfox80/php-autoloader-simple": "^1.0"
+    }
+}
